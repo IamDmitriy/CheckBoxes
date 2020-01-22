@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBoxes</string>
+    <string name="cash_address_chk_bx">Наличными по адресу</string>
+    <string name="mobile_phone_chk_bx">С мобильного телефона</string>
+    <string name="bank_card_chk_bx">С банковской карты</string>
+    <string name="btn_ok">OK</string>
+    <string name="hint_input_info">Информация об оплате</string>
+    <string name="hint_input_money">Ввод денег</string>
+</resources>
